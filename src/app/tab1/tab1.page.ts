@@ -5,7 +5,7 @@
 
 //Para Googlemaps también hay varias opciones. Este ejemplo usa GoogleMaps JavaScript Api. Se tiene que habilitar desde
 // https://console.cloud.google.com en Biblioteca de Api.
-//En archivo index.html encima de </head> agregar
+//Egit n archivo index.html encima de </head> agregar
 //<script src='https://maps.googleapis.com/maps/api/js?libraries=places&key=MI_KEY_AQUI'></script>
 
 
